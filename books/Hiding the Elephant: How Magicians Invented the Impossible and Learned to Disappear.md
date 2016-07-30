@@ -12,4 +12,3 @@ Jean Robert-Houdin was famous for the opinion that a magician is actually just "
 "How We May See in a Chamber Things That Are Not,"
 
 
-[Hiding the Elephant: How Magicians Invented the Impossible and Learned to Disappear](https://readmill.com/books/hiding-the-elephant-how-magicians-invented-the-impossible-and-learned-to-disappear)

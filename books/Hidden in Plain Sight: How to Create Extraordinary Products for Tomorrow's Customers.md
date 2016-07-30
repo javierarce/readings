@@ -70,5 +70,3 @@ It was during our research in rural Uganda in villages beyond the asphalt street
 
 Data, like milk, is best consumed fresh; the longer we take to analyze it, the more likely we are to lose the thread that connects it to its original meaning.
 
-
-[Hidden in Plain Sight: How to Create Extraordinary Products for Tomorrow's Customers](https://readmill.com/books/hidden-in-plain-sight-how-to-create-extraordinary-products-for-tomorrows-customers)
