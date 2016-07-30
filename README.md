@@ -2,7 +2,6 @@
 
 - My [goodreads profile](https://www.goodreads.com/user/show/5987858-javier)
 
-
 # Books with quotes
 
 - [Every Love Story Is a Ghost Story](books/Every Love Story Is a Ghost Story: A Life of David Foster Wallace.md)
@@ -18,10 +17,10 @@
 
 ### Wishlist
 
-- The Tao of Pooh, Benjamin Hoff.
-- The Inner Game of Tennis, Timothy Gallwey.
-- Nature, Emerson.
 - How to Write a Thesis, Umberto Eco.
-- The Book, Alan Watts.
-- Women, Fire and Dangerous Things, George Lakoff.
+- Nature, Emerson.
 - Sorting Things Out, Geoffrey C.
+- The Book, Alan Watts.
+- The Inner Game of Tennis, Timothy Gallwey.
+- The Tao of Pooh, Benjamin Hoff.
+- Women, Fire and Dangerous Things, George Lakoff.
