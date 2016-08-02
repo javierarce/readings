@@ -4,7 +4,7 @@ Very WIPy.
 
 - My [goodreads profile](https://www.goodreads.com/user/show/5987858-javier)
 
-# Books with quotes
+# Annotated readings (WIP)
 
 - [Every Love Story Is a Ghost Story](library/every-love-story-is-a-ghost-story.md)
 - [Genius, The Life and Science of Richard Feynman](library/genius.md)
@@ -24,6 +24,10 @@ Very WIPy.
 - **The Gift: Creativity and the Artist in the Modern World**, by *Lewis Hyde*
 - **The New Science of Strong Materials: Or Why You Don't Fall Through the Floor**, by *J.E. Gordon*
 - **Understanding Power: The Indispensable Chomsky**, by *Noam Chomsky*
+
+### Readings out in the wild
+
+- [Works by Seymour Papert](http://www.papert.org/works.html)
 
 ### Wishlist (WIP)
 
