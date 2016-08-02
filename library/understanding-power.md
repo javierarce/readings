@@ -1,3 +1,5 @@
+**Understanding Power: The Indispensable Chomsky**, by *Noam Chomsky*
+
 Real education is about getting people involved in thinking for themselves-and that's a tricky business to know how to do well, but clearly it requires that whatever it is you're looking at has to somehow catch people's interest and make them want to think, and make them want to pursue and explore. And just regurgitating "Good Books" is absolutely the worst way to do it-that's just a way of turning people into automata. You may call that an education if you want, but it's really the opposite of an education, which is why people like William Bennett [Reagan's Secretary of Education] and Allan Bloom and these others are all so much in favor of it. 
 
 ---
