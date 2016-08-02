@@ -6,16 +6,17 @@ Very WIPy.
 
 # Books with quotes
 
-- [Every Love Story Is a Ghost Story](library/Every Love Story Is a Ghost Story: A Life of David Foster Wallace.md)
-- [Genius, The Life and Science of Richard Feynman](library/Genius, The Life and Science of Richard Feynman.md)
-- [Hidden in Plain Sight](library/Hidden in Plain Sight: How to Create Extraordinary Products for Tomorrow's Customers.md)
-- [Hiding the Elephant](library/Hiding the Elephant: How Magicians Invented the Impossible and Learned to Disappear.md)
-- [Impro](library/Impro: Improvisation and the Theatre.md)
-- [Kurt Vonnegut](library/Kurt Vonnegut.md)
-- [Steal Like an Artist](library/Steal Like an Artist: 10 Things Nobody Told You About Being Creative.md)
-- [Stories of Your Life and Others](library/Stories of Your Life and Others.md)
-- [The Gift](library/The Gift.md)
-- [The Illustrated Longitude](library/The Illustrated Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time.md)
+- [Every Love Story Is a Ghost Story](library/every-love-story-is-a-ghost-story.md)
+- [Genius, The Life and Science of Richard Feynman](library/genius.md)
+- [Hidden in Plain Sight](library/hidden-in-plain-sight.md)
+- [Hiding the Elephant](library/hiding-the-elephant.md)
+- [Impro](library/impro.md)
+- [Kurt Vonnegut](library/kurt-vonnegut.md)
+- [Steal Like an Artist](library/steal-like-an-artist.md)
+- [Stories of Your Life and Others](library/stories-of-your-life-and-others.md)
+- [The Gift](library/the-gift.md)
+- [The Illustrated Longitude](library/the-illustrated-longitude.md)
+- [Understanding Power: The Indispensable Chomsky](library/understanding-power.md), by *Noam Chomsky*
 
 # Tangible library (WIP)
 
