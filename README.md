@@ -3,6 +3,7 @@
 Very WIPy.
 
 - My [goodreads profile](https://www.goodreads.com/user/show/5987858-javier)
+- [How to Read a	Book](http://pne.people.si.umich.edu/PDF/howtoread.pdf)
 
 # Annotated readings (WIP)
 
