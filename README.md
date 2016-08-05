@@ -1,6 +1,6 @@
 # Books
 
-Very WIPy.
+*Beware: very WIPy.*
 
 - My [goodreads profile](https://www.goodreads.com/user/show/5987858-javier)
 - [Interesting words and concepts](words.md)

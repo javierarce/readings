@@ -16,11 +16,11 @@
 
 ### Conway's law
 
->> organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations
+> organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations
 
 — M. Conway
 
->> The law is based on the reasoning that in order for a software module to function, multiple authors must communicate frequently with each other. Therefore, the software interfaces structure of a system will reflect the social boundaries of the organization(s) that produced it, across which communication is more difficult. Conway's law was intended as a valid sociological observation, although sometimes it's taken in a humorous context.
+> The law is based on the reasoning that in order for a software module to function, multiple authors must communicate frequently with each other. Therefore, the software interfaces structure of a system will reflect the social boundaries of the organization(s) that produced it, across which communication is more difficult. Conway's law was intended as a valid sociological observation, although sometimes it's taken in a humorous context.
 
 - Source: [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_law)
 
