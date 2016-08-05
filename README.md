@@ -3,7 +3,6 @@
 Very WIPy.
 
 - My [goodreads profile](https://www.goodreads.com/user/show/5987858-javier)
-- [How to Read a	Book](http://pne.people.si.umich.edu/PDF/howtoread.pdf)
 
 # Annotated readings (WIP)
 
@@ -28,7 +27,13 @@ Very WIPy.
 
 ### Readings out in the wild
 
+- [How to Read a Book](http://pne.people.si.umich.edu/PDF/howtoread.pdf)
 - [Works by Seymour Papert](http://www.papert.org/works.html)
+
+### Clippings
+
+- [My clippings](clippings.md)
+- [Clippings by Superfamous](http://clippings.superfamous.com)
 
 ### Wishlist (WIP)
 
