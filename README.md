@@ -1,7 +1,7 @@
 *Beware: very WIPy.*
 
 - My [goodreads profile](https://www.goodreads.com/user/show/5987858-javier)
-- [Interesting words and concepts](words.md)
+- [Words and concepts](words.md)
 - [My clippings](clippings.md)
 - [Clippings by Superfamous](http://clippings.superfamous.com)
 

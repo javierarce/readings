@@ -8,7 +8,7 @@
 
 ### solecism
 
-> In traditional grammar, a solecism is a phrase that trespasses the rules of grammar. 
+> In traditional grammar, a solecism is a phrase that trespasses the rules of grammar.
 
 > The word originally was used by the Greeks for what they perceived as grammatical mistakes in their language. Ancient Athenians considered the dialect of the inhabitants of their colony, Soli, in Cilicia to be a corrupted form of their own pure Attic dialect, and labelled the errors in the form as "solecisms". Therefore, when referring to similar grammatical mistakes heard in the speech of Athenians, they described them as "solecisms" and that term has been adopted as a label for grammatical mistakes in any language.
 
@@ -26,9 +26,9 @@
 
 ---
 
-### Kinhin
+### kinhin
 
-In Zen Buddhism, the walking meditation that is practiced between long periods of the sitting meditation known as zazen.
+> In Zen Buddhism, the walking meditation that is practiced between long periods of the sitting meditation known as zazen.
 
 ---
 
@@ -36,4 +36,4 @@ In Zen Buddhism, the walking meditation that is practiced between long periods o
 
 *Also referred to as a Jon Bar Hinge or change-point).*
 
-In science fiction (or general literature), small non-descript events that lead to a different future or an alternate history.
+> In science fiction (or general literature), small non-descript events that lead to a different future or an alternate history.
