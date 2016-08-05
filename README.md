@@ -1,5 +1,3 @@
-# Books
-
 *Beware: very WIPy.*
 
 - My [goodreads profile](https://www.goodreads.com/user/show/5987858-javier)
