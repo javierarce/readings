@@ -35,6 +35,10 @@ Very WIPy.
 - [My clippings](clippings.md)
 - [Clippings by Superfamous](http://clippings.superfamous.com)
 
+### Words
+
+- [Words](words.md)
+
 ### Wishlist (WIP)
 
 - How to Write a Thesis, Umberto Eco.
