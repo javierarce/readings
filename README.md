@@ -1,5 +1,7 @@
 *Beware: very WIPy.*
 
+A list of things I've read or that I want to read or that I'm reading or something.
+
 - My [goodreads profile](https://www.goodreads.com/user/show/5987858-javier)
 - [Words and concepts](words.md)
 - [My clippings](clippings.md)
@@ -9,6 +11,7 @@
 
 - [How to Read a Book](http://pne.people.si.umich.edu/PDF/howtoread.pdf)
 - [Works by Seymour Papert](http://www.papert.org/works.html)
+- [Code of Ethics of the Society of Professional Journalists](http://www.spj.org/ethicscode.asp)
 
 # Annotated readings (WIP)
 
@@ -30,7 +33,6 @@
 - **The Gift: Creativity and the Artist in the Modern World**, by *Lewis Hyde*
 - **The New Science of Strong Materials: Or Why You Don't Fall Through the Floor**, by *J.E. Gordon*
 - **Understanding Power: The Indispensable Chomsky**, by *Noam Chomsky*
-
 
 ### Wishlist (WIP)
 
