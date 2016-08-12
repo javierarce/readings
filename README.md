@@ -1,6 +1,6 @@
 *Beware: very WIPy.*
 
-A list of things I've read or that I want to read or that I'm reading or something.
+A list of things that I've read or that I want to read or that I'm reading or something.
 
 - My [goodreads profile](https://www.goodreads.com/user/show/5987858-javier)
 - [Words and concepts](words.md)
