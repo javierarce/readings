@@ -13,6 +13,11 @@ A list of things I've read or that I want to read or that I'm reading or somethi
 - [Works by Seymour Papert](http://www.papert.org/works.html)
 - [Code of Ethics of the Society of Professional Journalists](http://www.spj.org/ethicscode.asp)
 
+
+# Teaching and learning
+
+- [Responding to a student's request for help](https://maryrosecook.com/blog/post/responding-to-a-students-request-for-help)
+
 # Annotated readings (WIP)
 
 - [Every Love Story Is a Ghost Story](library/every-love-story-is-a-ghost-story.md)
